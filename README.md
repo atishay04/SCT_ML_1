@@ -6,7 +6,7 @@ This repository contains Task 1 of the SkillCraft Machine Learning Internship. T
 
 To train a machine learning model using a dataset with housing features like area, number of rooms, location, etc., and predict the final house prices.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - NumPy & Pandas
